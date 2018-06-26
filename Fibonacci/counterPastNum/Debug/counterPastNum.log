@@ -1,0 +1,5 @@
+﻿  fibonacci.cpp
+c:\users\id student\desktop\thomas s\fibonacci\counterpastnum\fibonacci.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\id student\desktop\thomas s\fibonacci\counterpastnum\fibonacci.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\id student\desktop\thomas s\fibonacci\counterpastnum\fibonacci.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  counterPastNum.vcxproj -> C:\Users\iD Student\Desktop\Thomas S\Fibonacci\Debug\counterPastNum.exe
