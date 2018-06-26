@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  RPS.cpp
+c:\users\id student\desktop\thomas s\rps\rps\rps.cpp(53): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\id student\desktop\thomas s\rps\rps\rps.cpp(59): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\id student\desktop\thomas s\rps\rps\rps.cpp(65): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\id student\desktop\thomas s\rps\rps\rps.cpp(71): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\id student\desktop\thomas s\rps\rps\rps.cpp(77): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\id student\desktop\thomas s\rps\rps\rps.cpp(83): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\id student\desktop\thomas s\rps\rps\rps.cpp(89): warning C4390: ';': empty controlled statement found; is this the intent?
+  Generating code
+  Finished generating code
+  All 79 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  RPS.vcxproj -> C:\Users\iD Student\Desktop\Thomas S\RPS\Release\RPS.exe
